@@ -1,2 +1,2 @@
-# fizzbuzz
-A simple fizzbuzz app
+# FizzBuzz
+A simple fizzbuzz app with unit testing
